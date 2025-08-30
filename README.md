@@ -49,8 +49,8 @@ Todos os ambientes que construi e venho construíndo são orientados à LGPD e I
 
 - Automatização de ambientes com PowerShell e Python
 - Gerenciamento de configurações com Ansible
-- DevSecOps com Sonar e Veracode
-- Observabilidade com Zabbix
+- DevSecOps com Sonar e Code QL
+- Observabilidade com Zabbix, Grafana e Prometheus
 
 ---
 
