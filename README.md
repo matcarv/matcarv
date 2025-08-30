@@ -31,7 +31,8 @@ Todos os ambientes que construi e venho construíndo são orientados à LGPD e I
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sonar-F3702A?style=for-the-badge&logo=sonar&logoColor=white"/>  
 </div>
 
 ---
