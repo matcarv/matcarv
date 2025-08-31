@@ -54,10 +54,9 @@ Todos os ambientes que construi e venho construíndo são orientados à LGPD e I
 
 ### :sparkles: Em aprendizado
 
-- Automatização de ambientes com PowerShell e Python
-- Gerenciamento de configurações com Ansible
+- Gerenciamento de configurações com PowerShell e Python
 - DevSecOps com Sonar e Code QL
-- Observabilidade com Zabbix, Grafana e Prometheus
+- Observabilidade avançada com Zabbix, Grafana, Prometheus e ELK Stack
 
 ---
 
