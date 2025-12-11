@@ -43,15 +43,6 @@ Todos os ambientes que construi e venho construíndo são orientados à LGPD e I
 
 ---
 
-### :bar_chart: Meus Números
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matcarv&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcarv&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ### :sparkles: Em aprendizado
 
 - Gerenciamento de configurações com PowerShell e Python
@@ -62,6 +53,11 @@ Todos os ambientes que construi e venho construíndo são orientados à LGPD e I
 
 ### :handshake: Converse comigo
 
-Estou disponível para construirmos algo que possa gerar e entregar valor.
+Estamos disponível para construirmos algo que possa gerar e entregar valor para você e para a sua empresa.
+Conheça a nossa empresa =).
 
-Me chame no [LinkedIn](https://www.linkedin.com/in/matcarv/) ou envie um e-mail para contato@matcarv.com.
+<div align="center">
+  <a href="https://linkedin.com/company/matcarv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https:/instagram.com/matcarvit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:matcarv.it@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
