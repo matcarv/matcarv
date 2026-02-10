@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Weslley Matos! ☁️🚀</h1></p>
 
 <p align="center">
-  TI | Cloud Architect (AWS & Azure) | DevOps e SRE | Software Engineer (Java & AI)
+  IT Consultant | Cloud Architect (AWS & Azure) | DevOps e SRE | Software Engineer (Java & AI)
 </p>
 
 ---
