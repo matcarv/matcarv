@@ -6,64 +6,70 @@
 
 ---
 
-### Sobre mim
+# Weslley Matos de Carvalho
 
-Mais de 14 anos trabalhando com Tecnologia da Informação, atuando fortemente como Engenheiro de Software Java, e atuamente como Engenheiro Cloud e DevOps. Sou fascinado por construção de produtos digitais, ambientes complexos, automação de processos e tarefas, e integração e entrega contínua de aplicações. 
-
-Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário São Camilo - Unidade Espírito Santo e MBA em Gerenciamento de Projetos com ênfase em TI pela FGV. Possuo vários bootcamps como Engenharia de Software Ágil, Profissional DevOps e Inovação e Transformação Digital. Tenho certificação AWS como Arquiteto - Associate (necessidade de renovação), uma trilha de certificações EXIN para formação DPO e Certificação como Scrum Master pela Scrum Alliance.
-
-Todos os ambientes que construi e venho construíndo são orientados às boas práticas de segurança da informação e proteção de dados, como ISOs 27001 e 27002 e LGPD, onde deixo toda a infraestrutura fortemente segura, robusta e escalável.
-
-## ⚡ Soft Skills:
-- Dinamismo.
-- Perfil analítico e projetista.
-- Senso crítico ao limite, pois é assim que se tem resultados.
-- Foco sempre nos objetivos.
-- O aprendizado é contínuo.
-- Não paro até que tudo seja funcional, seguro e eficiente.
-- A segurança de aplicações e ambientes sempre vem em seu planejamento. Nunca durante ou depois.
+**Founder & Lead Specialist @ MatCarv**  
+Cloud Architect | DevOps & Platform Engineering | Software Engineering | Applied AI for Business  
 
 ---
 
-### 🚀 Hard Skills:
+## 🌐 About me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Actions-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sonar-F3702A?style=for-the-badge&logo=sonar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-%23121011?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PostgresSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>-->
-  <img src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-</div>
+I design and operate **scalable, secure and high-performance cloud platforms** for companies that treat technology as a strategic asset — not just operational support.  
+
+With 14+ years of experience, I specialize in:  
+- Cloud architecture and FinOps-driven cost optimization  
+- DevOps, CI/CD, and platform engineering  
+- High-availability, secure distributed systems  
+- Software engineering with strong quality and performance standards  
+- Applied Artificial Intelligence for operational efficiency  
+
+I work with a **limited number of high-impact projects**, ensuring deep technical involvement and measurable results.  
+
+**Selected Achievements:**  
+- Up to **45% reduction** in cloud infrastructure costs  
+- **70% acceleration** in environment provisioning using AI-assisted automation  
+- **60% reduction** in vulnerabilities and stabilization of legacy-critical systems  
+- Consistent **code quality gates > 90%**  
 
 ---
 
-### :sparkles: Extras:
-- Criação de agentes de IA para automação de tarefas operacionais e gerenciais (AIOps e FinOps).
-- Gerenciamento de configurações com Bash Scripts, PowerShell e Python.
-- Cultura DevSecOps usando as ferramentas Sonar e Code QL (GitHub).
-- Observabilidade Dynatrace, Grafana, Prometheus e ELK Stack.
-- Infraestrutura como Código (IaC) orientado à entrega contínua.
+## 💼 Selected Projects / Cases
+
+**MatCarv – Technology Consulting Boutique**  
+- Led cloud modernization for enterprise and regulated environments  
+- Architected secure, resilient infrastructures using **AWS & Azure**, with Docker & Kubernetes orchestration  
+- Applied **Infrastructure as Code (Terraform)** to reduce provisioning times by **70%**  
+- Integrated **AI-assisted automation** to accelerate operational workflows by **50%**  
+
+**Petrobras – Mission-Critical Systems**  
+- Modernized legacy Java applications using **Spring Boot, Oracle DB & Docker**  
+- Implemented observability strategies with **Grafana and Dynatrace**  
+- Migrated Solr indexers and provisioned Azure cloud resources  
+
+**Urban Mobility Clients (Kim+, TACOM, Meta3Group)**  
+- Developed robust Java Fullstack applications using **Spring Boot, Hibernate, PostgreSQL, Vue.js**  
+- Implemented containerized microservices and CI/CD pipelines across **GitHub, GitLab, Azure DevOps**  
+- Applied **FinOps** and secure cloud practices  
 
 ---
 
-### :handshake: Converse comigo
+## 🛠 Technologies & Expertise
 
-Estamos disponível para construirmos algo que possa gerar e entregar valor para você e para a sua empresa.
-Conheça a nossa empresa =).
+**Cloud & DevOps:** AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD, CloudWatch, ELK Stack, WAFs  
+**Software Engineering:** Java 8/11+, Spring Boot, Hibernate, JPA, REST APIs, Microservices  
+**Data & AI:** Applied AI for operational efficiency, OpenSearch, PostgreSQL, Redis  
+**Automation & Infrastructure:** Bash, PowerShell, GitOps, CI/CD pipelines, observability frameworks  
+**Governance & Security:** FinOps, secure distributed systems, regulated environments  
 
-<div align="center">
-  <a href="https://linkedin.com/company/matcarv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/matcarvit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:matcarv.it@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Weslley Matos de Carvalho](https://www.linkedin.com/in/weslley-matos/)  
+- **Website:** [www.matcarv.com](https://www.matcarv.com)  
+- **Email:** contato@matcarv.com  
+
+---
+
+*This GitHub profile is a showcase of high-impact Cloud, DevOps, AI, and Software Engineering projects, demonstrating technical depth and strategic results.*
