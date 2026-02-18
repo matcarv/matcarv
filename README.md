@@ -1,14 +1,6 @@
-<h1 align="center">Olá, sou o Weslley Matos! ☁️🚀</h1></p>
-
-<p align="center">
-  IT Consultant | Cloud Architect (AWS & Azure) | DevOps e SRE | Software Engineer (Java & AI)
-</p>
-
----
-
 # Weslley Matos de Carvalho
 
-**Founder & Lead Specialist @ MatCarv**  
+**Founder & Boutique Specialist @ MatCarv**  
 Cloud Architect | DevOps & Platform Engineering | Software Engineering | Applied AI for Business  
 
 ---
@@ -56,11 +48,11 @@ I work with a **limited number of high-impact projects**, ensuring deep technica
 
 ## 🛠 Technologies & Expertise
 
-**Cloud & DevOps:** AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD, CloudWatch, ELK Stack, WAFs  
-**Software Engineering:** Java 8/11+, Spring Boot, Hibernate, JPA, REST APIs, Microservices  
-**Data & AI:** Applied AI for operational efficiency, OpenSearch, PostgreSQL, Redis  
-**Automation & Infrastructure:** Bash, PowerShell, GitOps, CI/CD pipelines, observability frameworks  
-**Governance & Security:** FinOps, secure distributed systems, regulated environments  
+- **Cloud & DevOps:** AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD, CloudWatch, ELK Stack, WAFs  
+- **Software Engineering:** Java 8/11+, Spring Boot, Hibernate, JPA, REST APIs, Microservices  
+- **Data & AI:** Applied AI for operational efficiency, OpenSearch, PostgreSQL, Redis  
+- **Automation & Infrastructure:** Bash, PowerShell, GitOps, CI/CD pipelines, observability frameworks  
+- **Governance & Security:** FinOps, secure distributed systems, regulated environments  
 
 ---
 
